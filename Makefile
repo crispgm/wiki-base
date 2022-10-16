@@ -11,6 +11,7 @@ all: $(HTML)
 	pandoc --from markdown --to html $< -o $@ \
 		--standalone \
 		-c /wiki-base/css/style.css \
+		-V year=$(shell date +%Y) \
 		--template=./_build/template.html \
 		--lua-filter=./_build/filters/links-to-html.lua \
 		--lua-filter=./_build/filters/promote-headers.lua \
