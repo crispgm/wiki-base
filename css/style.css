@@ -40,6 +40,10 @@ footer {
   margin-bottom: 1.2rem;
 }
 
+footer > div {
+  padding-top: 0.8rem;
+}
+
 a {
   text-decoration: none;
   color: #5E81AC;
