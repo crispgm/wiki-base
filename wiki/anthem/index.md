@@ -11,7 +11,7 @@
 - [Ireland](/anthem/ireland.md)
 - [Italy](/anthem/italy.md)
 - [Montenegro](/anthem/montenegro.md)
-- [Namibia](/anthem/Namibia.md)
+- [Namibia](/anthem/namibia.md)
 - [New Zealand](/anthem/new-zealand.md)
 - [Russia](/anthem/russia.md)
 - [Serbia](/anthem/serbia.md)
