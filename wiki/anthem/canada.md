@@ -2,7 +2,7 @@
 
 O Canada!  
 Our home and native land!  
-True patriot love in all of us command.  
+True patriot love in all ~~thy sons~~ of us command.  
 With glowing hearts we see thee rise,  
 The True North strong and free!  
 From far and wide,  
