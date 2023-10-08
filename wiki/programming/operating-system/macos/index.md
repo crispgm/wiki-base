@@ -1,6 +1,7 @@
 # macOS
 
 - [macOS Shortcuts & Tips](/programming/operating-system/macos/macos-shortcuts.md)
+- [macOS Reset Accessibility Permission](/programming/operating-system/macos/macos-reset-accessibility.md)
 - [Mac OSX 10.9 Mavericks 清除 DNS 缓存](/programming/operating-system/macos/mac-osx-10-9-mavericks-flush-dns-cache.md)
 - [macOS 截图修改保存路径](/programming/operating-system/macos/macos-screenshot-saving-path.md)
 - [macOS 下 ssh 避免多次输入密码](/programming/operating-system/macos/macos-ssh-auto-login.md)
