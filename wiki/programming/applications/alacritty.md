@@ -1,5 +1,13 @@
 # Alacritty
 
+## Alacritty keeps asking for permissions
+
+> https://github.com/alacritty/alacritty/issues/5840
+
+```shell
+sudo codesign --force --deep --sign - /Applications/Alacritty.app
+```
+
 ## Build Alacritty for M1 Mac
 
 1. First, install rust with `rustup` and clone Alacritty source.
