@@ -23,5 +23,5 @@
   - [Alacritty](/dev/applications/alacritty.md)
   - [Safari](/dev/applications/safari.md)
   - [ffmpeg](/dev/applications/ffmpeg.md)
-  - [Heroku](/dev/applications/heroku/index.md)
+  - [yt-dlp](/dev/applications/yt-dlp.md)
   - [iTerm2](/dev/applications/iterm2/index.md)
