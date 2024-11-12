@@ -1,0 +1,16 @@
+# Applications
+
+- [neovim](/dev/applications/neovim/index.md)
+  - [nvim Startup Time](/dev/applications/neovim/nvim-startup-time.md)
+  - [nvim Lsp Highlight Colors](/dev/applications/neovim/nvim-lsp-highlight-colors.md)
+- [vim](/dev/applications/vim/index.md)
+  - [Learning Resource](/dev/applications/vim/learning-resource.md)
+  - [VIM Cheatsheet](/dev/applications/vim/vim-cheatsheet.md)
+  - [vim: how to write `doc.txt`](/dev/applications/vim/vim-doc.md)
+  - [vim: map with `c-u`](/dev/applications/vim/vim-map-with-c-u.md)
+- [Alacritty](/dev/applications/alacritty.md)
+- [Safari](/dev/applications/safari.md)
+- [ffmpeg](/dev/applications/ffmpeg.md)
+- [yt-dlp](/dev/applications/yt-dlp.md)
+- [iTerm2](/dev/applications/iterm2/index.md)
+  - [iTerm2 Select Text without Mouse](/dev/applications/iterm2/iterm2-select-text-without-mouse.md)

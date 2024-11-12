@@ -4,7 +4,7 @@
 
 ### Knowledge
 
-- [Programming](/programming/index.md)
+- [Dev](/dev/index.md)
 - [Lifestyle](/lifestyle/index.md)
 - [Sports](/sports/index.md)
 - [History](/history/index.md)
