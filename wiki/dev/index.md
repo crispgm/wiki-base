@@ -20,7 +20,6 @@
 - [Applications](/dev/applications/index.md)
   - [neovim](/dev/applications/neovim/index.md)
   - [vim](/dev/applications/vim/index.md)
-  - [Alacritty](/dev/applications/alacritty.md)
   - [Safari](/dev/applications/safari.md)
   - [ffmpeg](/dev/applications/ffmpeg.md)
   - [yt-dlp](/dev/applications/yt-dlp.md)

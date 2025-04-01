@@ -8,7 +8,6 @@
   - [VIM Cheatsheet](/dev/applications/vim/vim-cheatsheet.md)
   - [vim: how to write `doc.txt`](/dev/applications/vim/vim-doc.md)
   - [vim: map with `c-u`](/dev/applications/vim/vim-map-with-c-u.md)
-- [Alacritty](/dev/applications/alacritty.md)
 - [Safari](/dev/applications/safari.md)
 - [ffmpeg](/dev/applications/ffmpeg.md)
 - [yt-dlp](/dev/applications/yt-dlp.md)
