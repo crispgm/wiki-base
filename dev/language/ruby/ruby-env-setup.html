@@ -29,6 +29,8 @@ bundle config mirror.https://rubygems.org https://gems.ruby-china.com</code></pr
 <h3 id="install-libexif">Install libexif</h3>
 <pre class="shell"><code>brew install libexif
 CPATH=$(brew --prefix libexif)/include gem install exif</code></pre>
+<h3 id="fix-bundle-install-cannot-load-such-file">Fix <code>bundle install cannot load such file</code></h3>
+<pre class="shell"><code>gem uninstall bundler --all --force &amp;&amp; gem install bundler</code></pre>
       <footer>
         <div>Copyright &copy; David Zhang, 2025.</div>
         <div>
