@@ -1,5 +1,6 @@
 # Reading
 
+- [2026](/reading/2026.md)
 - [2025](/reading/2025.md)
 - [2024](/reading/2024.md)
 - [2023](/reading/2023.md)
